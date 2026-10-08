@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a1ea4e5-69be-4d3c-b39f-b824f5295c07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HN-KS24-CNTT3-devops-hackathon-ma006-hoangthienson/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HN-KS24-CNTT3-devops-hackathon-ma006-hoangthienson/nginx/hoangthienson-k24-cntt3.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HN-KS24-CNTT3-devops-hackathon-ma006-hoangthienson/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0030998787921162" />
+      <entry key="MS500" value="1.6446109563301583" />
+      <entry key="S2" value="4.823659475603289" />
+      <entry key="S5" value="9.33643704491755" />
+      <entry key="S10" value="13.61483190017199" />
+      <entry key="S30" value="19.016260649753715" />
+      <entry key="S60" value="22.351877155492286" />
+      <entry key="M2" value="30.742861279007556" />
+      <entry key="M5" value="52.36999425737091" />
+      <entry key="M10" value="72.16547871022911" />
+      <entry key="M15" value="83.11440600149949" />
+      <entry key="M30" value="98.2366545983336" />
+      <entry key="H1" value="108.07744198328346" />
+      <entry key="H2" value="113.74554726656989" />
+      <entry key="H4" value="116.79485632033587" />
+      <entry key="D1" value="119.45456894668634" />
+      <entry key="W1" value="119.9218003579222" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9689295938603116" />
+      <entry key="MS500" value="1.632097496238301" />
+      <entry key="S2" value="4.813170291153089" />
+      <entry key="S5" value="9.328395167892271" />
+      <entry key="S10" value="13.609032791950963" />
+      <entry key="S30" value="19.01356631566562" />
+      <entry key="S60" value="22.350262990133707" />
+      <entry key="M2" value="30.74169168034698" />
+      <entry key="M5" value="52.36915238790353" />
+      <entry key="M10" value="72.16487787085994" />
+      <entry key="M15" value="83.11393520637469" />
+      <entry key="M30" value="98.2363685836467" />
+      <entry key="H1" value="108.07728194136052" />
+      <entry key="H2" value="113.74546225249065" />
+      <entry key="H4" value="116.79481245812822" />
+      <entry key="D1" value="119.4545614382244" />
+      <entry key="W1" value="119.92179928029886" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KOE0TxFHslL7ZmDEp9Snm95ie0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/boizi/Desktop/devops-hackathon-de006-hoangthienson",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="devops-hackathon-de006-hoangthienson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="devops-hackathon-de006-hoangthienson" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1ea4e5-69be-4d3c-b39f-b824f5295c07" name="Changes" comment="" />
+      <created>1791419991775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791419991775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/HN-KS24-CNTT3-devops-hackathon-ma006-hoangthienson" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
